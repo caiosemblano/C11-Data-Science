@@ -31,3 +31,4 @@ print("Frozenset:", categorias_fixas)
 usuario = {"nome": "Caio", "idade": 22}
 usuario["cargo"] = "Desenvolvedor"
 print("Dict:", usuario)
+
